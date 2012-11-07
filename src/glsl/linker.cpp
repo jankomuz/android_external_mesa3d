@@ -82,6 +82,7 @@ extern "C" {
 #include "program/hash_table.h"
 #include "linker.h"
 #include "ir_optimization.h"
+#include <stddef.h>
 
 #include "main/shaderobj.h"
 
